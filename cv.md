@@ -9,3 +9,9 @@
 ## About me 
 
 I want to learn Front-End Development in RSSchool!
+
+## My skills
+
+* HTML5,CSS3
+* VS Code
+* Adob Photoshop ,Figma 
