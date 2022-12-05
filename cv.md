@@ -15,3 +15,16 @@ I want to learn Front-End Development in RSSchool!
 * HTML5,CSS3
 * VS Code
 * Adob Photoshop ,Figma 
+
+# Code examples
+
+```
+function multiply(a, b) {
+  return a * b;
+}
+
+let result = multiply(1, 2);
+
+console.log(result)
+
+```
