@@ -10,7 +10,23 @@
 There’s nothing to say yet, I’m doing what’s interesting. I’m watching TV series and enjoying myself. I’ll remember a bunch of things that need to be done. I watch TV series and get nervous.
 
 ## __Skills__
+
 - HTML
 - CSS/SASS
 - JavaScript (Basic)
 - Git (Basic)
+
+## __Code Example__
+
+const myFn = (a,b) = > {
+  a * b 
+}
+
+
+## __Experience__
+
+## __Education__ 
+
+## __English__
+A1
+
