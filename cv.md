@@ -8,3 +8,9 @@
 
 ## __About Me__
 There’s nothing to say yet, I’m doing what’s interesting. I’m watching TV series and enjoying myself. I’ll remember a bunch of things that need to be done. I watch TV series and get nervous.
+
+## __Skills__
+- HTML
+- CSS/SASS
+- JavaScript (Basic)
+- Git (Basic)
